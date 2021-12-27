@@ -1,1 +1,2 @@
-This is not a a real file just a second test for git.
+This is not a a real file just a second test for git. 
+added this line.
